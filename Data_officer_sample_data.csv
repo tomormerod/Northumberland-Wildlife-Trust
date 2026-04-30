@@ -1,0 +1,301 @@
+﻿Record_ID,Species,Taxon_Group,Date_Recorded,Site_Name,Habitat_Type,Recorder_Type,Survey_Method
+1,Comma,Invertebrate,10/05/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+2,Comma,Invertebrate,29/03/2022,North Fen,Fen,Consultant,Professional survey
+3,,Reptile,16/03/2024,Coastal Meadows,Grassland,Volunteer,Professional survey
+4,Common Frog,Amphibian,20/04/2023,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+5,Barn Owl,Bird,09/10/2023,Riverdale Nature Reserve,Wetland,Staff Ecologist,Professional survey
+6,,Mammal,16/02/2024,Ashwood Woodland,Woodland,Staff Ecologist,Automated recorder
+7,Grass Snake,Reptile,25/07/2022,North Fen,Fen,Volunteer,Professional survey
+8,Common Pipistrelle,Mammal,11/06/2022,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+9,Grass Snake,Reptile,21/12/2023,Lowland Heath,Heathland,Volunteer,Citizen science
+10,Common Frog,Amphibian,15/01/2022,Lowland Heath,Heathland,Volunteer,Automated recorder
+11,Great Crested Newt,Amphibian,27/01/2023,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+12,Comma,Invertebrate,19/02/2024,Riverdale Nature Reserve,Wetland,Consultant,Automated recorder
+13,Grass Snake,Reptile,18/08/2024,North Fen,Fen,Consultant,Professional survey
+14,Comma,Invertebrate,28/01/2023,North Fen,Fen,Volunteer,Automated recorder
+15,Comma,Invertebrate,18/07/2023,Riverdale Nature Reserve,Wetland,Consultant,Automated recorder
+16,Barn Owl,Bird,01/08/2023,Lowland Heath,Heathland,Staff Ecologist,Professional survey
+17,Water Vole,Mammal,09/07/2022,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+18,Common Frog,Amphibian,11/12/2023,North Fen,Fen,Volunteer,Professional survey
+19,Grass Snake,Reptile,18/03/2023,North Fen,Fen,Volunteer,Citizen science
+20,European Hedgehog,Mammal,30/11/2023,Riverdale Nature Reserve,Wetland,Consultant,Citizen science
+21,European Hedgehog,Mammal,12/12/2024,North Fen,Fen,Staff Ecologist,Automated recorder
+22,Grass Snake,Reptile,05/02/2023,North Fen,Fen,Volunteer,Automated recorder
+23,European Hedgehog,Mammal,06/07/2022,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+24,Water Vole,Mammal,27/05/2022,North Fen,Fen,Volunteer,Citizen science
+25,Common Frog,Amphibian,31/05/2022,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+26,Barn Owl,Bird,30/05/2024,Coastal Meadows,Grassland,Consultant,Automated recorder
+27,Comma,Invertebrate,26/03/2024,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+28,European Hedgehog,Mammal,14/04/2022,Coastal Meadows,Grassland,Volunteer,Citizen science
+29,Common Pipistrelle,Mammal,01/04/2024,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+30,Lapwing,Bird,05/02/2023,Coastal Meadows,Grassland,Consultant,Automated recorder
+31,Small Tortoiseshell,Invertebrate,27/01/2022,North Fen,Fen,Volunteer,Citizen science
+32,Great Crested Newt,Amphibian,01/07/2023,Coastal Meadows,Grassland,Consultant,Professional survey
+33,Lapwing,Bird,26/11/2024,North Fen,Fen,Volunteer,Citizen science
+34,Barn Owl,Bird,07/09/2024,Lowland Heath,Heathland,Volunteer,Citizen science
+35,Water Vole,Mammal,17/11/2023,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+36,Water Vole,Mammal,24/02/2024,Ashwood Woodland,Woodland,Consultant,Professional survey
+37,Comma,Invertebrate,09/07/2024,ashwood woodland,Woodland,Staff Ecologist,Citizen science
+38,Barn Owl,Bird,27/05/2023,Riverdale Nature Reserve,Wetland,Staff Ecologist,Professional survey
+39,Common Pipistrelle,Mammal,29/07/2023,North Fen,Fen,Volunteer,Professional survey
+40,Small Tortoiseshell,Invertebrate,20/03/2023,North Fen,Fen,Staff Ecologist,Citizen science
+41,Comma,Invertebrate,13/02/2024,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+42,Common Pipistrelle,Mammal,19/10/2023,Coastal Meadows,Grassland,Volunteer,Citizen science
+43,Water Vole,Mammal,01/03/2024,Lowland Heath,Heathland,Volunteer,Citizen science
+44,Common Pipistrelle,Mammal,03/05/2023,Riverdale Nature Reserve,Wetland,Consultant,Professional survey
+45,Comma,Invertebrate,03/06/2022,north fen,Fen,Staff Ecologist,Citizen science
+46,European Hedgehog,Mammal,29/03/2023,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+47,Lapwing,Bird,06/06/2023,Ashwood Woodland,Woodland,Volunteer,Professional survey
+48,Great Crested Newt,Amphibian,08/02/2024,Ashwood Woodland,Woodland,Volunteer,Citizen science
+49,Barn Owl,Bird,21/11/2023,Coastal Meadows,Grassland,Volunteer,Citizen science
+50,Great Crested Newt,Amphibian,02/12/2024,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+51,Great Crested Newt,Amphibian,04/02/2022,Ashwood Woodland,Woodland,Volunteer,Professional survey
+52,Common Pipistrelle,Mammal,09/09/2023,North Fen,Fen,Volunteer,Citizen science
+53,Grass Snake,Reptile,30/12/2023,Coastal Meadows,Grassland,Volunteer,Automated recorder
+54,European Hedgehog,Mammal,04/09/2024,North Fen,Fen,Consultant,Citizen science
+55,Comma,Invertebrate,06/10/2022,Lowland Heath,Heathland,Staff Ecologist,Citizen science
+56,Small Tortoiseshell,Invertebrate,30/11/2023,Lowland Heath,Heathland,Volunteer,Citizen science
+57,Comma,Invertebrate,19/12/2023,Coastal Meadows,Grassland,Consultant,Citizen science
+58,Great Crested Newt,Amphibian,14/11/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+59,Lapwing,Bird,23/07/2024,Ashwood Woodland,Woodland,Consultant,Automated recorder
+60,Common Pipistrelle,Mammal,29/10/2024,Coastal Meadows,Grassland,Consultant,Professional survey
+61,Common Frog,Amphibian,05/03/2024,Ashwood Woodland,Woodland,Volunteer,Citizen science
+62,European Hedgehog,Mammal,26/05/2023,Coastal Meadows,Grassland,Staff Ecologist,Automated recorder
+63,Great Crested Newt,Amphibian,25/05/2024,Lowland Heath,Heathland,Volunteer,Citizen science
+64,Common Pipistrelle,Mammal,17/12/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+65,Common Frog,Amphibian,03/04/2024,Coastal Meadows,Grassland,Consultant,Citizen science
+66,Lapwing,Bird,22/07/2022,Lowland Heath,Heathland,Volunteer,Professional survey
+67,Common Frog,Amphibian,18/10/2023,Riverdale Nature Reserve,Wetland,Staff Ecologist,Citizen science
+68,Grass Snake,Reptile,07/11/2023,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+69,,Amphibian,17/05/2023,Coastal Meadows,Grassland,Consultant,Citizen science
+70,Great Crested Newt,Amphibian,25/01/2023,Lowland Heath,Heathland,Volunteer,Professional survey
+71,Grass Snake,Reptile,26/05/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+72,European Hedgehog,Mammal,02/05/2024,North Fen,Fen,Volunteer,Citizen science
+73,European Hedgehog,Mammal,15/04/2022,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+74,Lapwing,Bird,10/02/2024,Lowland Heath,Heathland,Volunteer,Automated recorder
+75,European Hedgehog,Mammal,02/04/2023,Lowland Heath,Heathland,Volunteer,Citizen science
+76,Grass Snake,Reptile,05/04/2022,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+77,Common Pipistrelle,Mammal,13/12/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+78,Comma,Invertebrate,02/05/2024,Lowland Heath,Heathland,Staff Ecologist,Professional survey
+79,Small Tortoiseshell,Invertebrate,08/04/2022,Ashwood Woodland,Woodland,Volunteer,Citizen science
+80,Small Tortoiseshell,Invertebrate,10/09/2024,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+81,Barn Owl,Bird,03/07/2022,Ashwood Woodland,Woodland,Consultant,Professional survey
+82,Small Tortoiseshell,Invertebrate,24/07/2022,Lowland Heath,Heathland,Volunteer,Automated recorder
+83,Comma,Invertebrate,18/06/2024,North Fen,Fen,Volunteer,Automated recorder
+84,Common Pipistrelle,Mammal,26/09/2023,Lowland Heath,Heathland,Volunteer,Citizen science
+85,Small Tortoiseshell,Invertebrate,17/04/2024,Lowland Heath,Heathland,Volunteer,Citizen science
+86,Water Vole,Mammal,04/03/2024,Lowland Heath,Heathland,Volunteer,Automated recorder
+87,European Hedgehog,Mammal,14/03/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+88,Grass Snake,Reptile,31/12/2022,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+89,Comma,Invertebrate,16/03/2024,North Fen,Fen,Consultant,Professional survey
+90,Comma,Invertebrate,27/03/2022,Riverdale Nature Reserve,Wetland,Staff Ecologist,Citizen science
+91,Barn Owl,Bird,08/03/2022,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+92,Grass Snake,Reptile,18/01/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+93,Grass Snake,Reptile,26/05/2024,north fen,Fen,Consultant,Professional survey
+94,Small Tortoiseshell,Invertebrate,22/04/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+95,Great Crested Newt,Amphibian,27/06/2023,North Fen,Fen,Volunteer,Automated recorder
+96,Barn Owl,Bird,19/05/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+97,Great Crested Newt,Amphibian,22/11/2022,Lowland Heath,Heathland,Staff Ecologist,Citizen science
+98,European Hedgehog,Mammal,16/10/2023,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+99,Great Crested Newt,Amphibian,20/06/2024,Riverdale Nature Reserve,Wetland,Staff Ecologist,Professional survey
+100,Grass Snake,Reptile,17/11/2022,Ashwood Woodland,Woodland,Volunteer,Professional survey
+101,European Hedgehog,Mammal,14/11/2022,Lowland Heath,Heathland,Volunteer,Citizen science
+102,Common Pipistrelle,Mammal,28/05/2023,Coastal Meadows,Grassland,Volunteer,Citizen science
+103,Lapwing,Bird,08/03/2024,Coastal Meadows,Grassland,Volunteer,Professional survey
+104,Barn Owl,Bird,01/12/2024,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+105,Small Tortoiseshell,Invertebrate,12/11/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+106,Lapwing,Bird,28/11/2024,North Fen,Fen,Volunteer,Automated recorder
+107,European Hedgehog,Mammal,23/04/2023,Coastal Meadows,Grassland,Volunteer,Citizen science
+108,Lapwing,Bird,08/08/2024,North Fen,Fen,Consultant,Automated recorder
+109,Water Vole,Mammal,16/03/2024,Riverdale Nature Reserve,Wetland,Staff Ecologist,Automated recorder
+110,Grass Snake,Reptile,16/02/2022,lowland heath,Heathland,Volunteer,Automated recorder
+111,Barn Owl,Bird,04/03/2024,Coastal Meadows,Grassland,Volunteer,Professional survey
+112,Small Tortoiseshell,Invertebrate,29/10/2022,Ashwood Woodland,Woodland,Volunteer,Citizen science
+113,European Hedgehog,Mammal,14/11/2023,Coastal Meadows,Grassland,Consultant,Automated recorder
+114,Water Vole,Mammal,27/08/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+115,Comma,Invertebrate,24/03/2024,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+116,Small Tortoiseshell,Invertebrate,24/07/2024,North Fen,Fen,Volunteer,Citizen science
+117,Lapwing,Bird,25/07/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+118,Common Pipistrelle,Mammal,22/02/2023,north fen,Fen,Volunteer,Automated recorder
+119,,Invertebrate,11/12/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+120,Water Vole,Mammal,08/12/2024,Coastal Meadows,Grassland,Staff Ecologist,Automated recorder
+121,Grass Snake,Reptile,23/11/2022,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+122,European Hedgehog,Mammal,13/10/2022,Lowland Heath,Heathland,Volunteer,Automated recorder
+123,Common Pipistrelle,Mammal,17/05/2023,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+124,Grass Snake,Reptile,24/02/2022,Lowland Heath,Heathland,Volunteer,Citizen science
+125,,Invertebrate,28/10/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+126,Grass Snake,Reptile,02/08/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+127,Grass Snake,Reptile,28/03/2023,North Fen,Fen,Volunteer,Automated recorder
+128,Water Vole,Mammal,31/05/2022,Riverdale Nature Reserve,Wetland,Consultant,Professional survey
+129,Common Pipistrelle,Mammal,25/03/2024,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+130,Comma,Invertebrate,18/09/2022,Coastal Meadows,Grassland,Consultant,Automated recorder
+131,Barn Owl,Bird,03/05/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+132,Comma,Invertebrate,10/06/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+133,Small Tortoiseshell,Invertebrate,09/05/2023,North Fen,Fen,Consultant,Automated recorder
+134,Small Tortoiseshell,Invertebrate,08/05/2022,Ashwood Woodland,Woodland,Volunteer,Citizen science
+135,Common Frog,Amphibian,11/08/2023,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+136,Small Tortoiseshell,Invertebrate,17/06/2022,North Fen,Fen,Volunteer,Citizen science
+137,European Hedgehog,Mammal,07/09/2024,Ashwood Woodland,Woodland,Staff Ecologist,Professional survey
+138,European Hedgehog,Mammal,24/11/2023,North Fen,Fen,Volunteer,Citizen science
+139,Comma,Invertebrate,08/04/2022,North Fen,Fen,Volunteer,Professional survey
+140,Barn Owl,Bird,15/08/2024,Coastal Meadows,Grassland,Volunteer,Citizen science
+141,Common Frog,Amphibian,23/10/2022,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+142,Comma,Invertebrate,11/05/2022,North Fen,Fen,Volunteer,Automated recorder
+143,Lapwing,Bird,27/03/2024,Coastal Meadows,Grassland,Staff Ecologist,Professional survey
+144,Grass Snake,Reptile,23/10/2023,North Fen,Fen,Volunteer,Professional survey
+145,Common Frog,Amphibian,04/05/2023,Coastal Meadows,Grassland,Volunteer,Automated recorder
+146,Water Vole,Mammal,07/09/2022,Lowland Heath,Heathland,Volunteer,Professional survey
+147,Comma,Invertebrate,17/08/2023,Lowland Heath,Heathland,Volunteer,Professional survey
+148,Comma,Invertebrate,21/09/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+149,Comma,Invertebrate,08/02/2022,Coastal Meadows,Grassland,Volunteer,Citizen science
+150,Common Pipistrelle,Mammal,16/01/2022,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+151,Common Pipistrelle,Mammal,29/01/2024,North Fen,Fen,Volunteer,Automated recorder
+152,Barn Owl,Bird,15/08/2024,Lowland Heath,Heathland,Staff Ecologist,Automated recorder
+153,Common Frog,Amphibian,14/07/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+154,Grass Snake,Reptile,20/11/2022,Ashwood Woodland,Woodland,Consultant,Professional survey
+155,Common Frog,Amphibian,21/08/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+156,Comma,Invertebrate,21/12/2024,North Fen,Fen,Volunteer,Citizen science
+157,Small Tortoiseshell,Invertebrate,14/08/2022,Lowland Heath,Heathland,Consultant,Citizen science
+158,Small Tortoiseshell,Invertebrate,09/11/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+159,European Hedgehog,Mammal,09/06/2022,North Fen,Fen,Volunteer,Citizen science
+160,Barn Owl,Bird,09/08/2024,Lowland Heath,Heathland,Volunteer,Professional survey
+161,Water Vole,Mammal,09/02/2022,Riverdale Nature Reserve,Wetland,Staff Ecologist,Automated recorder
+162,Small Tortoiseshell,Invertebrate,02/07/2024,North Fen,Fen,Consultant,Citizen science
+163,European Hedgehog,Mammal,29/11/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+164,Grass Snake,Reptile,04/08/2022,North Fen,Fen,Volunteer,Citizen science
+165,Common Frog,Amphibian,22/12/2022,Lowland Heath,Heathland,Volunteer,Citizen science
+166,Water Vole,Mammal,20/11/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+167,Comma,Invertebrate,05/12/2024,Ashwood Woodland,Woodland,Volunteer,Citizen science
+168,,Amphibian,18/02/2023,North Fen,Fen,Staff Ecologist,Automated recorder
+169,Lapwing,Bird,05/10/2022,Lowland Heath,Heathland,Volunteer,Citizen science
+170,Small Tortoiseshell,Invertebrate,04/06/2024,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+171,Barn Owl,Bird,05/08/2024,north fen,Fen,Volunteer,Automated recorder
+172,Water Vole,Mammal,08/01/2024,Ashwood Woodland,Woodland,Consultant,Citizen science
+173,Barn Owl,Bird,31/08/2024,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+174,Lapwing,Bird,25/03/2022,Lowland Heath,Heathland,Volunteer,Professional survey
+175,Small Tortoiseshell,Invertebrate,05/10/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+176,Common Frog,Amphibian,04/06/2023,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+177,Lapwing,Bird,13/01/2023,Coastal Meadows,Grassland,Volunteer,Professional survey
+178,Barn Owl,Bird,05/06/2023,Coastal Meadows,Grassland,Consultant,Citizen science
+179,Common Pipistrelle,Mammal,23/12/2024,North Fen,Fen,Volunteer,Professional survey
+180,Small Tortoiseshell,Invertebrate,30/12/2023,north fen,Fen,Volunteer,Citizen science
+181,European Hedgehog,Mammal,07/06/2024,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+182,Water Vole,Mammal,02/01/2022,Ashwood Woodland,Woodland,Consultant,Professional survey
+183,Small Tortoiseshell,Invertebrate,20/05/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+184,European Hedgehog,Mammal,13/11/2022,North Fen,Fen,Volunteer,Professional survey
+185,Grass Snake,Reptile,21/04/2022,Ashwood Woodland,Woodland,Staff Ecologist,Professional survey
+186,Water Vole,Mammal,13/06/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+187,Small Tortoiseshell,Invertebrate,28/03/2022,Coastal Meadows,Grassland,Volunteer,Automated recorder
+188,Barn Owl,Bird,05/11/2022,Lowland Heath,Heathland,Volunteer,Automated recorder
+189,Small Tortoiseshell,Invertebrate,08/11/2022,Lowland Heath,Heathland,Volunteer,Citizen science
+190,Small Tortoiseshell,Invertebrate,21/06/2024,Riverdale Nature Reserve,Wetland,Consultant,Citizen science
+191,Barn Owl,Bird,16/06/2023,Coastal Meadows,Grassland,Volunteer,Professional survey
+192,Lapwing,Bird,01/08/2023,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+193,Water Vole,Mammal,14/06/2023,Lowland Heath,Heathland,Staff Ecologist,Professional survey
+194,Comma,Invertebrate,28/07/2024,Ashwood Woodland,Woodland,Consultant,Citizen science
+195,Small Tortoiseshell,Invertebrate,16/01/2023,Coastal Meadows,Grassland,Volunteer,Automated recorder
+196,Small Tortoiseshell,Invertebrate,09/06/2024,Riverdale Nature Reserve,Wetland,Consultant,Automated recorder
+197,European Hedgehog,Mammal,28/10/2022,Coastal Meadows,Grassland,Volunteer,Citizen science
+198,Water Vole,Mammal,11/05/2024,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+199,Common Frog,Amphibian,18/11/2023,Coastal Meadows,Grassland,Staff Ecologist,Automated recorder
+200,,Invertebrate,14/08/2024,Coastal Meadows,Grassland,Consultant,Professional survey
+201,European Hedgehog,Mammal,17/07/2022,North Fen,Fen,Volunteer,Professional survey
+202,Water Vole,Mammal,24/11/2023,coastal meadows,Grassland,Volunteer,Professional survey
+203,Common Frog,Amphibian,07/07/2024,north fen,Fen,Consultant,Professional survey
+204,Water Vole,Mammal,10/01/2023,Coastal Meadows,Grassland,Consultant,Professional survey
+205,Lapwing,Bird,07/11/2022,ashwood woodland,Woodland,Volunteer,Citizen science
+206,Water Vole,Mammal,11/08/2023,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+207,Lapwing,Bird,27/12/2022,Lowland Heath,Heathland,Volunteer,Citizen science
+208,Common Frog,Amphibian,19/11/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+209,Small Tortoiseshell,Invertebrate,19/01/2022,Coastal Meadows,Grassland,Volunteer,Citizen science
+210,European Hedgehog,Mammal,26/12/2023,Riverdale Nature Reserve,Wetland,Consultant,Automated recorder
+211,Common Frog,Amphibian,01/11/2022,riverdale nature reserve,Wetland,Volunteer,Automated recorder
+212,Grass Snake,Reptile,19/08/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+213,Lapwing,Bird,27/10/2023,Lowland Heath,Heathland,Staff Ecologist,Automated recorder
+214,Comma,Invertebrate,30/12/2022,Ashwood Woodland,Woodland,Consultant,Automated recorder
+215,Common Frog,Amphibian,16/12/2023,Coastal Meadows,Grassland,Volunteer,Professional survey
+216,Barn Owl,Bird,09/05/2023,Lowland Heath,Heathland,Volunteer,Professional survey
+217,Common Pipistrelle,Mammal,12/08/2023,Ashwood Woodland,Woodland,Staff Ecologist,Professional survey
+218,Comma,Invertebrate,08/06/2022,Lowland Heath,Heathland,Volunteer,Professional survey
+219,Comma,Invertebrate,13/07/2023,Riverdale Nature Reserve,Wetland,Staff Ecologist,Citizen science
+220,Water Vole,Mammal,10/01/2022,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+221,Lapwing,Bird,19/02/2022,Coastal Meadows,Grassland,Volunteer,Professional survey
+222,Great Crested Newt,Amphibian,19/09/2024,Coastal Meadows,Grassland,Staff Ecologist,Professional survey
+223,,Mammal,24/10/2023,Lowland Heath,Heathland,Volunteer,Professional survey
+224,Common Frog,Amphibian,24/05/2023,Lowland Heath,Heathland,Consultant,Professional survey
+225,Great Crested Newt,Amphibian,29/09/2023,Ashwood Woodland,Woodland,Staff Ecologist,Professional survey
+226,Great Crested Newt,Amphibian,08/07/2023,Coastal Meadows,Grassland,Consultant,Citizen science
+227,Barn Owl,Bird,14/03/2022,North Fen,Fen,Staff Ecologist,Citizen science
+228,European Hedgehog,Mammal,13/08/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+229,Small Tortoiseshell,Invertebrate,16/01/2023,Coastal Meadows,Grassland,Staff Ecologist,Professional survey
+230,Small Tortoiseshell,Invertebrate,20/12/2022,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+231,Common Frog,Amphibian,22/03/2023,ashwood woodland,Woodland,Staff Ecologist,Automated recorder
+232,Comma,Invertebrate,19/09/2023,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+233,Common Frog,Amphibian,10/02/2023,Lowland Heath,Heathland,Staff Ecologist,Professional survey
+234,,Bird,24/05/2023,Ashwood Woodland,Woodland,Volunteer,Citizen science
+235,Lapwing,Bird,31/01/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+236,Comma,Invertebrate,10/02/2023,North Fen,Fen,Volunteer,Automated recorder
+237,European Hedgehog,Mammal,09/11/2023,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+238,Barn Owl,Bird,03/02/2023,Riverdale Nature Reserve,Wetland,Volunteer,Professional survey
+239,Barn Owl,Bird,23/09/2022,Ashwood Woodland,Woodland,Staff Ecologist,Automated recorder
+240,European Hedgehog,Mammal,17/06/2024,Lowland Heath,Heathland,Volunteer,Citizen science
+241,Common Pipistrelle,Mammal,21/06/2023,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+242,Barn Owl,Bird,15/09/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+243,Great Crested Newt,Amphibian,17/02/2024,North Fen,Fen,Volunteer,Automated recorder
+244,Great Crested Newt,Amphibian,29/05/2022,Riverdale Nature Reserve,Wetland,Staff Ecologist,Citizen science
+245,Barn Owl,Bird,24/02/2024,Coastal Meadows,Grassland,Staff Ecologist,Professional survey
+246,Comma,Invertebrate,22/12/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+247,Small Tortoiseshell,Invertebrate,21/08/2023,Lowland Heath,Heathland,Consultant,Professional survey
+248,Small Tortoiseshell,Invertebrate,12/10/2023,Lowland Heath,Heathland,Consultant,Citizen science
+249,Water Vole,Mammal,08/05/2023,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+250,Great Crested Newt,Amphibian,01/12/2023,Riverdale Nature Reserve,Wetland,Consultant,Professional survey
+251,Barn Owl,Bird,16/09/2023,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+252,Small Tortoiseshell,Invertebrate,21/01/2022,Ashwood Woodland,Woodland,Volunteer,Citizen science
+253,European Hedgehog,Mammal,26/07/2023,Ashwood Woodland,Woodland,Staff Ecologist,Citizen science
+254,Comma,Invertebrate,15/02/2024,Ashwood Woodland,Woodland,Staff Ecologist,Automated recorder
+255,Grass Snake,Reptile,12/04/2023,Lowland Heath,Heathland,Consultant,Citizen science
+256,Comma,Invertebrate,12/02/2023,North Fen,Fen,Volunteer,Automated recorder
+257,Barn Owl,Bird,12/03/2023,North Fen,Fen,Volunteer,Professional survey
+258,Lapwing,Bird,16/12/2022,Lowland Heath,Heathland,Staff Ecologist,Citizen science
+259,Grass Snake,Reptile,25/11/2022,Riverdale Nature Reserve,Wetland,Staff Ecologist,Professional survey
+260,Common Frog,Amphibian,05/08/2022,Riverdale Nature Reserve,Wetland,Consultant,Automated recorder
+261,Grass Snake,Reptile,09/01/2023,Ashwood Woodland,Woodland,Staff Ecologist,Professional survey
+262,Water Vole,Mammal,24/07/2024,Riverdale Nature Reserve,Wetland,Staff Ecologist,Professional survey
+263,Common Frog,Amphibian,29/02/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+264,European Hedgehog,Mammal,02/05/2022,Lowland Heath,Heathland,Volunteer,Automated recorder
+265,Common Pipistrelle,Mammal,18/10/2024,Lowland Heath,Heathland,Staff Ecologist,Automated recorder
+266,Small Tortoiseshell,Invertebrate,18/06/2023,North Fen,Fen,Consultant,Automated recorder
+267,Barn Owl,Bird,29/03/2022,North Fen,Fen,Volunteer,Automated recorder
+268,Small Tortoiseshell,Invertebrate,23/01/2022,North Fen,Fen,Consultant,Automated recorder
+269,Grass Snake,Reptile,09/05/2022,Ashwood Woodland,Woodland,Volunteer,Professional survey
+270,Common Pipistrelle,Mammal,18/04/2023,North Fen,Fen,Volunteer,Professional survey
+271,Common Frog,Amphibian,15/05/2023,Lowland Heath,Heathland,Staff Ecologist,Citizen science
+272,Common Frog,Amphibian,09/11/2024,Ashwood Woodland,Woodland,Volunteer,Citizen science
+273,Water Vole,Mammal,09/11/2024,Coastal Meadows,Grassland,Consultant,Professional survey
+274,Grass Snake,Reptile,21/07/2022,Lowland Heath,Heathland,Staff Ecologist,Citizen science
+275,Comma,Invertebrate,10/06/2023,Coastal Meadows,Grassland,Staff Ecologist,Professional survey
+276,Grass Snake,Reptile,17/08/2023,Ashwood Woodland,Woodland,Volunteer,Professional survey
+277,Grass Snake,Reptile,26/06/2023,Lowland Heath,Heathland,Volunteer,Citizen science
+278,Barn Owl,Bird,26/04/2023,Riverdale Nature Reserve,Wetland,Volunteer,Automated recorder
+279,Common Frog,Amphibian,10/06/2022,Coastal Meadows,Grassland,Volunteer,Automated recorder
+280,Small Tortoiseshell,Invertebrate,16/03/2022,Coastal Meadows,Grassland,Staff Ecologist,Citizen science
+281,Water Vole,Mammal,30/08/2024,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+282,Great Crested Newt,Amphibian,01/07/2023,Lowland Heath,Heathland,Consultant,Citizen science
+283,Lapwing,Bird,05/12/2023,Ashwood Woodland,Woodland,Volunteer,Automated recorder
+284,European Hedgehog,Mammal,04/09/2023,Riverdale Nature Reserve,Wetland,Staff Ecologist,Citizen science
+285,,Bird,02/07/2023,Riverdale Nature Reserve,Wetland,Staff Ecologist,Automated recorder
+286,Great Crested Newt,Amphibian,27/09/2022,Coastal Meadows,Grassland,Volunteer,Citizen science
+287,Small Tortoiseshell,Invertebrate,20/04/2024,Coastal Meadows,Grassland,Volunteer,Automated recorder
+288,Common Frog,Amphibian,15/07/2022,Lowland Heath,Heathland,Volunteer,Automated recorder
+289,Barn Owl,Bird,07/05/2023,Lowland Heath,Heathland,Consultant,Professional survey
+290,Lapwing,Bird,10/09/2024,North Fen,Fen,Staff Ecologist,Citizen science
+291,Common Frog,Amphibian,21/09/2023,Riverdale Nature Reserve,Wetland,Volunteer,Citizen science
+292,Grass Snake,Reptile,27/07/2023,Lowland Heath,Heathland,Volunteer,Citizen science
+293,Common Pipistrelle,Mammal,21/04/2024,Ashwood Woodland,Woodland,Volunteer,Professional survey
+294,Common Pipistrelle,Mammal,29/09/2023,North Fen,Fen,Staff Ecologist,Automated recorder
+295,Water Vole,Mammal,31/08/2022,North Fen,Fen,Staff Ecologist,Professional survey
+296,,Bird,02/08/2022,Coastal Meadows,Grassland,Staff Ecologist,Professional survey
+297,Common Frog,Amphibian,15/11/2024,Ashwood Woodland,Woodland,Volunteer,Citizen science
+298,Water Vole,Mammal,15/08/2022,Coastal Meadows,Grassland,Volunteer,Automated recorder
+299,Great Crested Newt,Amphibian,03/11/2022,Lowland Heath,Heathland,Staff Ecologist,Citizen science
+300,Barn Owl,Bird,21/07/2023,Lowland Heath,Heathland,Volunteer,Professional survey
